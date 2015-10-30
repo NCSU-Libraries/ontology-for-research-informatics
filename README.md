@@ -13,7 +13,7 @@ Research informatics involves the use of technology to solve complex problems in
 Discipline specific areas of informatics include health informatics, social informatics, and digital humanities. 
 
 ##Repository content
-* readme.md - Outlines the ontology structure in a human-readable format
+* README.md - Outlines the ontology structure in a human-readable format
 * example.md - Describes how the ontology was used to investigate research informatics at a specific institution
 
 *Note: There is not a machine-readable version of the ontology at this time.*
